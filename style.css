@@ -1,0 +1,162 @@
+.cabecalho{
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 80px;
+    background-color: white;
+    box-shadow: 0 0 1em grey;
+}
+img{
+    height: 60px; 
+    margin-left: 15px; 
+    margin-top: 15px;
+}
+.fundoForm{
+    /* background-color: rgb(221, 236, 226); */
+    background-color: lightgreen;
+    background-size: cover;
+}
+.bloco{
+    width: 400px;
+    background-color: white;
+    margin-top: 40px;
+    border-radius: 7px;
+    box-shadow: 0 0 1.5em grey;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 55px;
+    padding-bottom: 80px;
+    /* float: left;  */
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-shadow: rgb(207, 205, 205) 2px 3px 2px;
+    font-size: 22px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+.formulario{
+    font-family: Arial;
+    font-size: 16px;
+    width: 300px;
+    height: 45px;
+    border-color: rgb(170, 170, 170);
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-width: 0.5px;
+}
+.botao{
+    font-family: sans-serif;
+    font-size: 16px;
+    /* color: black; */
+    color: white;
+    width: 100px;
+    height: 40px;
+    /* background-color:rgb(221, 236, 226); */
+    background-color: rgb(58, 139, 58);
+    border-radius: 7px;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    float: right;
+    cursor: pointer;
+    border-width: 0px;
+}
+.botao:hover{
+    color:black;
+    border-width: 0.5px;
+    background-color: rgb(221, 236, 226);
+}
+body{
+	margin: 0;
+}
+
+.Fundo {
+    background-image: linear-gradient(to bottom, green, lightgreen);
+    background-size: cover;
+    position: relative;
+    /* height: 100vh;
+    width: 100vw;  */
+}
+
+.TxtTopo{
+    text-transform: uppercase;
+    font-family: Impact;
+    font-size: 70px;
+    text-align: center; 
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.TxtCaixa{
+    font-family: Arial;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-right: 15px;
+    text-align: justify;
+}
+
+.Bloco1{
+    width: 950px;
+    height: 550px;
+    background-color: lightgreen;
+    /* margin-left: 460px;
+    margin-top: 45px; */
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.Bloco2{
+    width: 950px;
+    height: 45px;
+    background-color: dimgrey;
+    border-radius: 5px;
+}
+
+.TxtCaixa2{
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Impact;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.Botao1{
+    background-color: darkgreen;
+    width: 300px;
+    height: 50px;
+    margin-top: 85px;
+    margin-left: 310px;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px green;
+    color: black;
+    font-size: 25px;
+    font-family: Impact;
+}
+.botao1:hover{
+    background-color: rgb(49, 122, 49);
+}
+
+/* .Txtbotao{
+
+
+} */
+
+.TxtAviso{
+    color: #000000;
+    font-size: 17px;
+    font-family: Arial;
+    text-align: justify;
+    padding-left: 10px;
+	padding-top: 60px;
+}
+
